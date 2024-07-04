@@ -1,0 +1,14 @@
+langchain
+pypdf2
+langchain-community
+unstructured
+unstructured[pdf]
+pytesseract
+pdf2image
+faiss-cpu
+sentence_transformers
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
